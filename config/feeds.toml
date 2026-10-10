@@ -1,0 +1,56 @@
+# Public news sources. `ai_only = true` means every item is about AI security, so the
+# AI filter is skipped. General security feeds are filtered to their AI-related items.
+
+[[feed]]
+name = "Embrace The Red"
+url = "https://embracethered.com/blog/index.xml"
+ai_only = true
+
+[[feed]]
+name = "Simon Willison (prompt injection)"
+url = "https://simonwillison.net/tags/prompt-injection.atom"
+ai_only = true
+
+[[feed]]
+name = "The Hacker News"
+url = "https://feeds.feedburner.com/TheHackersNews"
+
+[[feed]]
+name = "heise Security"
+url = "https://www.heise.de/security/rss/news-atom.xml"
+
+[[feed]]
+name = "BSI Allianz für Cyber-Sicherheit"
+url = "https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/ACS_RSSNewsfeed.xml"
+
+[[feed]]
+name = "BSI Presse"
+url = "https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_Presse_Veranstaltungen.xml"
+
+[[feed]]
+name = "Google Security Blog"
+url = "https://security.googleblog.com/feeds/posts/default"
+
+[[feed]]
+name = "Microsoft Security Blog"
+url = "https://www.microsoft.com/en-us/security/blog/feed/"
+
+[[feed]]
+name = "NCSC UK"
+url = "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml"
+
+[[feed]]
+name = "Trail of Bits"
+url = "https://blog.trailofbits.com/feed/"
+
+[[feed]]
+name = "Help Net Security"
+url = "https://www.helpnetsecurity.com/feed/"
+
+[[feed]]
+name = "BleepingComputer"
+url = "https://www.bleepingcomputer.com/feed/"
+
+[[feed]]
+name = "golem.de Security"
+url = "https://rss.golem.de/rss.php?tp=sec&feed=RSS2.0"

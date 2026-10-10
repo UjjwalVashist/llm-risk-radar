@@ -1,0 +1,67 @@
+# OWASP Top 10 for LLM Applications (2025), https://genai.owasp.org/llm-top-10/
+# Each category lists keywords (English and German, lower case). An item goes to the
+# category with the most keyword hits in its title and summary. Phrases count double.
+
+[[category]]
+id = "LLM01"
+title = "Prompt Injection"
+plain = "Someone hides instructions in text, a web page or a file, and the AI follows them instead of its real task."
+keywords = ["prompt injection", "indirect prompt", "jailbreak", "jailbreaking", "prompt-injection", "injected instructions", "injection attack", "zero-click", "hidden instructions"]
+
+[[category]]
+id = "LLM02"
+title = "Sensitive Information Disclosure"
+plain = "The AI reveals private or confidential data: from its training, its context, or other users."
+keywords = ["data leak", "data leakage", "leaks data", "exfiltration", "exfiltrate", "data exposure", "sensitive data", "sensitive information", "privacy", "datenleck", "datenabfluss", "datenschutz", "personal data", "personenbezogene", "confidential"]
+
+[[category]]
+id = "LLM03"
+title = "Supply Chain"
+plain = "A risk arrives through something the AI system depends on: a model, a plugin, a library or a dataset."
+keywords = ["supply chain", "lieferkette", "malicious package", "malicious model", "hugging face", "pypi", "npm package", "plugin", "extension", "mcp server", "third-party", "dependency", "backdoored"]
+
+[[category]]
+id = "LLM04"
+title = "Data and Model Poisoning"
+plain = "Someone manipulates the training data or the model itself, so the AI learns something false or harmful."
+keywords = ["poisoning", "poisoned", "data poisoning", "model poisoning", "backdoor", "training data", "trainingsdaten", "fine-tuning", "sleeper agent", "manipulated model", "tampering", "manipulation"]
+
+[[category]]
+id = "LLM05"
+title = "Improper Output Handling"
+plain = "Software trusts what the AI writes and runs it or shows it without checking: code, links, commands."
+keywords = ["remote code execution", "rce", "code execution", "xss", "cross-site scripting", "sql injection", "command injection", "output handling", "unsanitized", "markdown image", "arbitrary code", "codeausführung", "run code", "execute code", "run arbitrary", "schadcode"]
+
+[[category]]
+id = "LLM06"
+title = "Excessive Agency"
+plain = "An AI agent has more permissions or tools than it needs, so a mistake or an attack does real damage."
+keywords = ["agent", "agents", "agentic", "ki-agent", "ki-agenten", "autonomous", "excessive agency", "tool use", "tool call", "computer use", "privilege", "permissions", "berechtigungen", "mcp"]
+
+[[category]]
+id = "LLM07"
+title = "System Prompt Leakage"
+plain = "The hidden instructions of an AI product leak, sometimes together with keys or internal details."
+keywords = ["system prompt", "systemprompt", "prompt leak", "prompt leakage", "leaked prompt", "prompt extraction", "api key", "api keys", "hardcoded", "secrets", "credentials", "zugangsdaten"]
+
+[[category]]
+id = "LLM08"
+title = "Vector and Embedding Weaknesses"
+plain = "Weak points in the document search behind an AI assistant (RAG): wrong or planted documents get pulled in."
+keywords = ["rag", "retrieval-augmented", "retrieval augmented", "vector database", "vector store", "embedding", "embeddings", "knowledge base", "vektordatenbank"]
+
+[[category]]
+id = "LLM09"
+title = "Misinformation"
+plain = "The AI states false things convincingly, or is used to produce fakes at scale."
+keywords = ["hallucination", "hallucinations", "halluzination", "misinformation", "disinformation", "desinformation", "deepfake", "deepfakes", "fake news", "fabricated", "falschinformation", "voice cloning", "impersonation", "fake", "phishing", "scam", "betrug"]
+
+[[category]]
+id = "LLM10"
+title = "Unbounded Consumption"
+plain = "The AI is made to use huge amounts of computing power or money, or its model is copied through mass queries."
+keywords = ["denial of service", "denial-of-service", "dos attack", "resource exhaustion", "model extraction", "model theft", "denial of wallet", "rate limit", "token cost", "unbounded consumption", "distillation attack"]
+
+# General security feeds are only kept when an item is clearly about AI.
+[filter]
+ai_terms = ["ai", "a.i.", "llm", "llms", "chatgpt", "gpt", "copilot", "gemini", "claude", "openai", "anthropic", "language model", "language models", "generative", "genai", "machine learning", "deepfake", "deepfakes", "chatbot", "chatbots", "prompt", "ki", "künstliche intelligenz", "künstlicher intelligenz", "sprachmodell", "sprachmodelle", "ki-agent", "ki-agenten"]

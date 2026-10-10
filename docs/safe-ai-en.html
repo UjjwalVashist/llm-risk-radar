@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Using AI safely</title><style>
+:root { color-scheme: light dark; --bg:#fcfcfb; --fg:#0b0b0b; --muted:#52514e; --line:#dddbd4; --card:#f3f2ee; --good:#006300; --bad:#b02a2a; --accent:#2a78d6; }
+@media (prefers-color-scheme: dark) { :root { --bg:#1a1a19; --fg:#fff; --muted:#c3c2b7; --line:#3a3a36; --card:#232321; --good:#4cc94c; --bad:#f08080; --accent:#6da7ec; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--fg); font:14px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,sans-serif; }
+main { max-width:900px; margin:0 auto; padding:24px 16px 32px; }
+.top { display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap; font-size:13px; margin-bottom:10px; }
+a { color:var(--accent); } button { font:inherit; padding:4px 10px; border-radius:6px; border:1px solid var(--line); background:var(--card); color:var(--fg); cursor:pointer; }
+h1 { font-size:30px; margin:0; letter-spacing:-.01em; } .sub { color:var(--muted); font-size:15px; margin:4px 0 16px; }
+.grid { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+.rule { background:var(--card); border-radius:10px; padding:11px 13px; break-inside:avoid; }
+.rule h2 { font-size:15px; margin:0 0 6px; } .num { color:var(--muted); font-weight:400; margin-right:4px; }
+.rule p { margin:3px 0; } .do b { color:var(--good); } .dont b { color:var(--bad); }
+.risk { color:var(--muted); font-size:11.5px; margin-top:6px !important; }
+.foot { margin-top:14px; color:var(--muted); font-size:12.5px; border-top:1px solid var(--line); padding-top:10px; }
+@media (max-width:640px) { .grid { grid-template-columns:1fr; } }
+@page { size:A4; margin:12mm; }
+@media print { :root { --bg:#fff; --fg:#000; --muted:#444; --card:#f3f2ee; --line:#ccc; --good:#006300; --bad:#b02a2a; }
+  .top { display:none; } main { padding:0; max-width:none; } .grid { grid-template-columns:1fr 1fr; } }
+</style></head><body><main>
+<div class="top"><span><a href="index.html">← LLM Risk Radar</a> · <a href="safe-ai-de.html">Deutsch</a></span>
+<button onclick="window.print()">Print this page</button></div>
+<h1>Using AI safely</h1><p class="sub">Eight everyday rules for ChatGPT, Copilot, Claude and other AI assistants at work.</p>
+<div class="grid"><div class="rule"><h2><span class="num">1</span>Keep confidential data out</h2><p class="do"><b>✓ Do:</b> Use made-up or anonymised examples when you ask for help.</p><p class="dont"><b>✕ Don't:</b> Paste customer data, personal data, contracts or unpublished figures into a public AI tool.</p><p class="risk">Protects against: LLM02 Sensitive Information Disclosure</p></div><div class="rule"><h2><span class="num">2</span>Use approved tools only</h2><p class="do"><b>✓ Do:</b> Work with the AI tools, plugins and extensions your company has approved.</p><p class="dont"><b>✕ Don't:</b> Install an unknown AI plugin or browser extension because it looks useful.</p><p class="risk">Protects against: LLM03 Supply Chain</p></div><div class="rule"><h2><span class="num">3</span>Check before you trust</h2><p class="do"><b>✓ Do:</b> Verify facts, figures and sources. AI can sound certain and still be wrong.</p><p class="dont"><b>✕ Don't:</b> Copy an AI answer into a report, an email to a customer or a decision without checking it.</p><p class="risk">Protects against: LLM09 Misinformation</p></div><div class="rule"><h2><span class="num">4</span>Text the AI reads can attack it</h2><p class="do"><b>✓ Do:</b> Be careful when an assistant summarises web pages, emails or files from outside.</p><p class="dont"><b>✕ Don't:</b> Assume a document is harmless. Hidden instructions in it can steer the AI.</p><p class="risk">Protects against: LLM01 Prompt Injection</p></div><div class="rule"><h2><span class="num">5</span>Review code, commands and links</h2><p class="do"><b>✓ Do:</b> Read AI-written code and commands, and test them, before you run them.</p><p class="dont"><b>✕ Don't:</b> Run a command or click a link only because the AI suggested it.</p><p class="risk">Protects against: LLM05 Improper Output Handling</p></div><div class="rule"><h2><span class="num">6</span>Give AI agents small permissions</h2><p class="do"><b>✓ Do:</b> Let an agent do only what the task needs, and confirm important steps yourself.</p><p class="dont"><b>✕ Don't:</b> Give an agent full access to your mailbox, files or systems “to be safe”.</p><p class="risk">Protects against: LLM06 Excessive Agency</p></div><div class="rule"><h2><span class="num">7</span>No secrets in prompts</h2><p class="do"><b>✓ Do:</b> Keep passwords, API keys and access tokens in the password manager.</p><p class="dont"><b>✕ Don't:</b> Write secrets into a prompt, a chat or the instructions of a custom assistant.</p><p class="risk">Protects against: LLM07 System Prompt Leakage</p></div><div class="rule"><h2><span class="num">8</span>Report it, quickly</h2><p class="do"><b>✓ Do:</b> Tell your security team if data ended up in the wrong tool or an AI behaved strangely.</p><p class="dont"><b>✕ Don't:</b> Stay silent out of embarrassment. Fast reports limit the damage.</p><p class="risk">Protects against: All risks</p></div></div>
+<p class="foot">Not sure? Ask your security team before you act. Based on the OWASP Top 10 for LLM Applications (2025).</p>
+</main></body></html>

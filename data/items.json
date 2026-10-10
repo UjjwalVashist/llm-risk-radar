@@ -1,0 +1,841 @@
+[
+ {
+  "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+  "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+  "source": "The Hacker News",
+  "published": "2026-10-10",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+  "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+  "source": "The Hacker News",
+  "published": "2026-10-09",
+  "category": "LLM06",
+  "matched": [
+   "agents",
+   "autonomous"
+  ]
+ },
+ {
+  "title": "Partnerangebot: isits AG – Seminar „KI-Compliance-Beauftragte bzw. -Beauftragter“",
+  "link": "https://www.bsi.bund.de/Webs/ACS/DE/Home/_/infos/20261116_isits_KI_Compliance.html",
+  "source": "BSI Allianz für Cyber-Sicherheit",
+  "published": "2026-10-09",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "PCI SSC calls for human approval of AI agent actions involving cardholder data",
+  "link": "https://www.helpnetsecurity.com/2026/10/09/pci-ssc-payment-environments-ai-security-guidance/",
+  "source": "Help Net Security",
+  "published": "2026-10-09",
+  "category": "LLM06",
+  "matched": [
+   "agent"
+  ]
+ },
+ {
+  "title": "KI-Agenten: Grok Bot postet private Kontostände im Firmen-Slack",
+  "link": "https://www.golem.de/news/ki-agenten-grok-bot-postet-private-kontostaende-im-firmen-slack-2610-213902.html",
+  "source": "golem.de Security",
+  "published": "2026-10-09",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "How to keep AI agents within their permissions",
+  "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+  "source": "BleepingComputer",
+  "published": "2026-10-09",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents",
+   "permissions"
+  ]
+ },
+ {
+  "title": "High-severity NVIDIA vulnerability lets unauthenticated attackers crash GPU monitoring",
+  "link": "https://www.helpnetsecurity.com/2026/10/09/nvidia-dcgm-exporter-vulnerability-cve-2026-47483/",
+  "source": "Help Net Security",
+  "published": "2026-10-09",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+  "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+  "source": "BleepingComputer",
+  "published": "2026-10-09",
+  "category": "LLM09",
+  "matched": [
+   "fake"
+  ]
+ },
+ {
+  "title": "Fortschritte in der KI-Mathematik: Forscher sehen Gefahren für Kryptowährungen",
+  "link": "https://www.golem.de/news/fortschritte-in-der-ki-mathematik-forscher-sehen-gefahren-fuer-kryptowaehrungen-2610-213922.html",
+  "source": "golem.de Security",
+  "published": "2026-10-09",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Cyberangriffe auf Banken: Hacker nutzt KI und hinterlässt Accountdaten",
+  "link": "https://www.golem.de/news/cyberangriffe-auf-banken-hacker-nutzt-ki-und-hinterlaesst-accountdaten-2610-213941.html",
+  "source": "golem.de Security",
+  "published": "2026-10-09",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Companies want autonomous IT operations but hesitate to let AI act alone",
+  "link": "https://www.helpnetsecurity.com/2026/10/09/move-toward-autonomous-it-operations/",
+  "source": "Help Net Security",
+  "published": "2026-10-09",
+  "category": "LLM06",
+  "matched": [
+   "agentic",
+   "autonomous"
+  ]
+ },
+ {
+  "title": "Anthropic offers free AI security scans to open-source maintainers",
+  "link": "https://www.helpnetsecurity.com/2026/10/09/anthropic-oss-scanner-ai-security-scans/",
+  "source": "Help Net Security",
+  "published": "2026-10-09",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+  "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+  "source": "The Hacker News",
+  "published": "2026-10-09",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "AWS Strands Box: KI-Agenten an die kurze Leine nehmen",
+  "link": "https://www.heise.de/news/AWS-Strands-Box-KI-Agenten-an-die-kurze-Leine-nehmen-11482058.html",
+  "source": "heise Security",
+  "published": "2026-10-09",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "Dekompilierung per KI: Warum Closed Source laut Raymond am Ende ist",
+  "link": "https://www.heise.de/news/Open-Source-Papst-Raymond-KI-setzt-Closed-Source-Software-ein-Ende-11480624.html",
+  "source": "heise Security",
+  "published": "2026-10-08",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Anzeige: Microsoft Copilot im Unternehmen gezielt einsetzen",
+  "link": "https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2610-213841.html",
+  "source": "golem.de Security",
+  "published": "2026-10-08",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+  "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+  "source": "The Hacker News",
+  "published": "2026-10-08",
+  "category": "LLM02",
+  "matched": [
+   "exfiltration"
+  ]
+ },
+ {
+  "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+  "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+  "source": "The Hacker News",
+  "published": "2026-10-07",
+  "category": "LLM05",
+  "matched": [
+   "run code"
+  ]
+ },
+ {
+  "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+  "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+  "source": "The Hacker News",
+  "published": "2026-10-07",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Pwn2Own: Hacker knacken Samsung Galaxy S26 und Philips Hue Bridge",
+  "link": "https://www.golem.de/news/pwn2own-hacker-knacken-samsung-galaxy-s26-und-philips-hue-bridge-2610-213819.html",
+  "source": "golem.de Security",
+  "published": "2026-10-07",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+  "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+  "source": "The Hacker News",
+  "published": "2026-10-07",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Nur jedes zehnte Unternehmen gegen KI-gestützte Angriffe gerüstet - jedes sechste Unternehmen berichtet von Vorfällen",
+  "link": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/261007_KI-Sicherheitsstudie_TUEV_BSI.html",
+  "source": "BSI Presse",
+  "published": "2026-10-07",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Fehlersuche per KI: IBM und Red Hat finden mehr als 400 Bugs in Java Code",
+  "link": "https://www.golem.de/news/fehlersuche-per-ki-ibm-und-red-hat-finden-mehr-als-400-bugs-in-java-code-2610-213801.html",
+  "source": "golem.de Security",
+  "published": "2026-10-07",
+  "category": "LLM06",
+  "matched": [
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "Anthropic bündelt Cyberprogramme und führt drei Zugriffsstufen ein",
+  "link": "https://www.heise.de/news/Anthropic-buendelt-Cyberprogramme-und-fuehrt-drei-Zugriffsstufen-ein-11478953.html",
+  "source": "heise Security",
+  "published": "2026-10-07",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+  "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+  "source": "The Hacker News",
+  "published": "2026-10-07",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "3 lessons from frontier AI vulnerability research",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-10-07",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+  "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+  "source": "The Hacker News",
+  "published": "2026-10-06",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
+ },
+ {
+  "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+  "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+  "source": "The Hacker News",
+  "published": "2026-10-06",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents",
+   "mcp"
+  ]
+ },
+ {
+  "title": "KI-Sicherheitsfilter: Claude-Tagebuch führt zu Polizeieinsatz und Verhaftung",
+  "link": "https://www.golem.de/news/ki-sicherheitsfilter-claude-tagebuch-fuehrt-zu-polizeieinsatz-und-verhaftung-2610-213774.html",
+  "source": "golem.de Security",
+  "published": "2026-10-06",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+  "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+  "source": "The Hacker News",
+  "published": "2026-10-06",
+  "category": "LLM09",
+  "matched": [
+   "fake",
+   "phishing"
+  ]
+ },
+ {
+  "title": "CISO perspectives on managing vulnerability risks in the age of AI",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-10-06",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+  "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+  "source": "The Hacker News",
+  "published": "2026-10-05",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+  "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+  "source": "The Hacker News",
+  "published": "2026-10-05",
+  "category": "LLM07",
+  "matched": [
+   "credentials"
+  ]
+ },
+ {
+  "title": "KI-Agenten: Metas Muse legt Profile über Freunde und Familie an",
+  "link": "https://www.golem.de/news/ki-agenten-metas-muse-legt-profile-ueber-freunde-und-familie-an-2610-213693.html",
+  "source": "golem.de Security",
+  "published": "2026-10-05",
+  "category": "LLM06",
+  "matched": [
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+  "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+  "source": "The Hacker News",
+  "published": "2026-10-05",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "David Robinson: Warum OpenAIs Sicherheitschef nun geht",
+  "link": "https://www.golem.de/news/david-robinson-warum-openais-sicherheitschef-nun-geht-2610-213684.html",
+  "source": "golem.de Security",
+  "published": "2026-10-04",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Macos: Apple verschärft Full Disk Access wegen KI-Agenten",
+  "link": "https://www.golem.de/news/macos-apple-verschaerft-full-disk-access-wegen-ki-agenten-2610-213673.html",
+  "source": "golem.de Security",
+  "published": "2026-10-03",
+  "category": "LLM06",
+  "matched": [
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "Sicherheit: OpenAIs KI-Agenten sind bei über 100 Organisationen eingedrungen",
+  "link": "https://www.golem.de/news/sicherheit-openais-ki-agenten-sind-bei-ueber-100-organisationen-eingedrungen-2610-213664.html",
+  "source": "golem.de Security",
+  "published": "2026-10-02",
+  "category": "LLM06",
+  "matched": [
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "KI: FTC eröffnet Untersuchung gegen Anthropic, OpenAI und Co.",
+  "link": "https://www.golem.de/news/ki-ftc-eroeffnet-untersuchung-gegen-anthropic-openai-und-co-2610-213608.html",
+  "source": "golem.de Security",
+  "published": "2026-10-01",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-09-30",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
+ },
+ {
+  "title": "From SELECT to SYSADMIN with SQL Copilot (CVE-2026-65669)",
+  "link": "https://embracethered.com/blog/posts/2026/from-select-to-sysadmin-sql-copilot-bluehat-asia/",
+  "source": "Embrace The Red",
+  "published": "2026-09-30",
+  "category": "LLM06",
+  "matched": [
+   "privilege"
+  ]
+ },
+ {
+  "title": "Partnerangebot: UNIVADO – Webinar „KI-Agenten außer Kontrolle?“ & E-Learning „KI-Kompetenz Training nach Art. 4 der KI-VO“",
+  "link": "https://www.bsi.bund.de/Webs/ACS/DE/Home/_/infos/20261020_UNIVADO_KI_Agenten.html",
+  "source": "BSI Allianz für Cyber-Sicherheit",
+  "published": "2026-09-25",
+  "category": "LLM06",
+  "matched": [
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "One does not simply defend agentically",
+  "link": "https://www.ncsc.gov.uk/blogs/one-does-not-simply-defend-agentically",
+  "source": "NCSC UK",
+  "published": "2026-09-21",
+  "category": "LLM06",
+  "matched": [
+   "agentic"
+  ]
+ },
+ {
+  "title": "Auditing in the age of (good enough) AI",
+  "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+  "source": "Trail of Bits",
+  "published": "2026-09-18",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents",
+   "agentic"
+  ]
+ },
+ {
+  "title": "Self-generated prompt injections in compaction summaries",
+  "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-09-17",
+  "category": "LLM06",
+  "matched": [
+   "agent"
+  ]
+ },
+ {
+  "title": "1Password's AI patching benchmark is misleading",
+  "link": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
+  "source": "Trail of Bits",
+  "published": "2026-09-15",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "Partnerangebot: CS VISOR GmbH – „ISO/IEC 42001:2023 Artificial Intelligence Management Systems (AIMS) Lead Auditor“",
+  "link": "https://www.bsi.bund.de/Webs/ACS/DE/Home/_/infos/20260926_CS_VISOR_ISOIEC42001.html",
+  "source": "BSI Allianz für Cyber-Sicherheit",
+  "published": "2026-09-14",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "A “proof” of Fermat’s Last Theorem that fits the margin",
+  "link": "https://blog.trailofbits.com/2026/09/09/a-proof-of-fermats-last-theorem-that-fits-the-margin/",
+  "source": "Trail of Bits",
+  "published": "2026-09-09",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Partnerangebot: AI-Z GmbH – „KI-Sicherheit im Unternehmen: Risiken, Regulatorik und Schutzmaßnahmen“",
+  "link": "https://www.bsi.bund.de/Webs/ACS/DE/Home/_/infos/20261030_KI-Sicherheit_im_Unternehmen.html",
+  "source": "BSI Allianz für Cyber-Sicherheit",
+  "published": "2026-09-08",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "The hidden risks of shadow AI",
+  "link": "https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai",
+  "source": "NCSC UK",
+  "published": "2026-09-07",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Breaking Claude Code Opus 5 Auto Mode",
+  "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+  "source": "Embrace The Red",
+  "published": "2026-08-27",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection",
+   "injection attack"
+  ]
+ },
+ {
+  "title": "Breaking Claude Code Opus 5 Auto Mode",
+  "link": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-08-27",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection"
+  ]
+ },
+ {
+  "title": "VMs won't contain cyber-capable agents",
+  "link": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+  "source": "Trail of Bits",
+  "published": "2026-08-26",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "Managing the cyber risk of agentic AI",
+  "link": "https://www.ncsc.gov.uk/blogs/managing-the-cyber-risk-of-agentic-ai",
+  "source": "NCSC UK",
+  "published": "2026-08-20",
+  "category": "LLM06",
+  "matched": [
+   "agentic",
+   "autonomous"
+  ]
+ },
+ {
+  "title": "Recovering Encrypted LLM Reasoning Traces",
+  "link": "https://embracethered.com/blog/posts/2026/recovering-encrypted-llm-thoughts/",
+  "source": "Embrace The Red",
+  "published": "2026-08-17",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Partnerangebot: qSkills GmbH & Co. KG –Schulung „AI Lead Auditor ISO/IEC 42001:2023 (DEKRA AILA) (AI150)”",
+  "link": "https://www.bsi.bund.de/Webs/ACS/DE/Home/_/infos/20261019_qSkills_AI_Lead_Auditor.html",
+  "source": "BSI Allianz für Cyber-Sicherheit",
+  "published": "2026-08-17",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+  "link": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-08-11",
+  "category": "LLM01",
+  "matched": [
+   "jailbreak"
+  ]
+ },
+ {
+  "title": "Partnerangebot: UNIVADO – “Security & AI Awareness Paket”",
+  "link": "https://www.bsi.bund.de/Webs/ACS/DE/Home/_/infos/20260902_UNIVADO_Security_AI_Awareness.html",
+  "source": "BSI Allianz für Cyber-Sicherheit",
+  "published": "2026-08-10",
+  "category": "LLM02",
+  "matched": [
+   "datenschutz"
+  ]
+ },
+ {
+  "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+  "link": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-08-08",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection"
+  ]
+ },
+ {
+  "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+  "link": "https://simonwillison.net/2026/Aug/5/incident-report/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-08-05",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "NCSC statement in response to recent incidents resulting from frontier AI evaluations",
+  "link": "https://www.ncsc.gov.uk/news/ncsc-statement-in-response-to-recent-incidents-resulting-from-frontier-ai-evaluations",
+  "source": "NCSC UK",
+  "published": "2026-08-04",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "LLM Heist: Hijacking LiteLLM for Traffic Interception, Key Theft, and Tool-Call Injection",
+  "link": "https://embracethered.com/blog/posts/2026/hijacking-litellm-for-fun-and-profit/",
+  "source": "Embrace The Red",
+  "published": "2026-08-03",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Escaping Linux Sandboxes via PipeWire (CVE-2026-5674)",
+  "link": "https://embracethered.com/blog/posts/2026/pipewire-flatpak-linux-sandbox-escape-cve-2026-5674/",
+  "source": "Embrace The Red",
+  "published": "2026-07-30",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "AI Worming through Word",
+  "link": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-07-29",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection",
+   "prompt-injection",
+   "hidden instructions"
+  ]
+ },
+ {
+  "title": "How we use /goal to find bugs in Patch the Planet",
+  "link": "https://blog.trailofbits.com/2026/07/28/how-we-use-goal-to-find-bugs-in-patch-the-planet/",
+  "source": "Trail of Bits",
+  "published": "2026-07-28",
+  "category": "LLM06",
+  "matched": [
+   "tool call",
+   "privilege"
+  ]
+ },
+ {
+  "title": "Quoting Boris Cherny",
+  "link": "https://simonwillison.net/2026/Jul/25/boris-cherny/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-07-25",
+  "category": "LLM01",
+  "matched": [
+   "prompt-injection"
+  ]
+ },
+ {
+  "title": "Autonomous AI Intrusions Are Here: Lessons from the Hugging Face Compromise",
+  "link": "https://embracethered.com/blog/posts/2026/ai-intrusion-are-now-real/",
+  "source": "Embrace The Red",
+  "published": "2026-07-20",
+  "category": "LLM03",
+  "matched": [
+   "hugging face"
+  ]
+ },
+ {
+  "title": "From Indirect Prompt Injection to DNS Exfiltration in macOS Terminal",
+  "link": "https://embracethered.com/blog/posts/2026/macos-terminal-dillma-dns-exfil-ansi-escape-code-fix/",
+  "source": "Embrace The Red",
+  "published": "2026-07-16",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection",
+   "indirect prompt"
+  ]
+ },
+ {
+  "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+  "link": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-07-15",
+  "category": "LLM02",
+  "matched": [
+   "exfiltration",
+   "exfiltrate"
+  ]
+ },
+ {
+  "title": "Prüfkatalog vertrauenswürdige KI-Systeme: BSI veröffentlicht Community Draft des A5",
+  "link": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/260706_KI_A5-Community-Draft.html",
+  "source": "BSI Presse",
+  "published": "2026-07-05",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "GPT-5.5-Cyber built a zlib fuzzing lab in a day",
+  "link": "https://blog.trailofbits.com/2026/07/02/field-reports-from-patch-the-planet/",
+  "source": "Trail of Bits",
+  "published": "2026-07-02",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "What happened after 2,000 people tried to hack my AI assistant",
+  "link": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-06-26",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection",
+   "prompt-injection",
+   "injection attack"
+  ]
+ },
+ {
+  "title": "Incident Report: CVE-2026-LGTM",
+  "link": "https://simonwillison.net/2026/Jun/26/incident-report/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-06-26",
+  "category": "LLM01",
+  "matched": [
+   "prompt-injection"
+  ]
+ },
+ {
+  "title": "Computer-Use and TOCTOU: What You Click Is Not What You Get!",
+  "link": "https://embracethered.com/blog/posts/2026/toctou-agent-what-you-click-is-not-what-you-get/",
+  "source": "Embrace The Red",
+  "published": "2026-06-25",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Prompt Injection as Role Confusion",
+  "link": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-06-22",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection"
+  ]
+ },
+ {
+  "title": "Introducing Patch the Planet",
+  "link": "https://blog.trailofbits.com/2026/06/22/introducing-patch-the-planet/",
+  "source": "Trail of Bits",
+  "published": "2026-06-22",
+  "category": "LLM03",
+  "matched": [
+   "supply chain",
+   "pypi"
+  ]
+ },
+ {
+  "title": "Claude Fable is relentlessly proactive",
+  "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-06-11",
+  "category": "LLM03",
+  "matched": [
+   "dependency"
+  ]
+ },
+ {
+  "title": "OpenAI Help: Lockdown Mode",
+  "link": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-06-05",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection",
+   "injection attack"
+  ]
+ },
+ {
+  "title": "The sorry state of skill distribution",
+  "link": "https://blog.trailofbits.com/2026/06/03/the-sorry-state-of-skill-distribution/",
+  "source": "Trail of Bits",
+  "published": "2026-06-03",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents",
+   "agentic"
+  ]
+ },
+ {
+  "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+  "link": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-06-01",
+  "category": "LLM01",
+  "matched": [
+   "prompt-injection"
+  ]
+ },
+ {
+  "title": "Microsoft Copilot Cowork Exfiltrates Files",
+  "link": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-05-26",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection",
+   "prompt-injection"
+  ]
+ },
+ {
+  "title": "Google I/O, Gemini Spark, Antigravity",
+  "link": "https://simonwillison.net/2026/May/20/google-io/",
+  "source": "Simon Willison (prompt injection)",
+  "published": "2026-05-20",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection"
+  ]
+ },
+ {
+  "title": "BSI veröffentlicht G7-Richtlinie zu Software Bill of Materials for AI",
+  "link": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/260512_G7_Richtlinie_SBOM_for_AI.html",
+  "source": "BSI Presse",
+  "published": "2026-05-12",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Copirate 365 at DEF CON: Plundering in the Depths of Microsoft Copilot (CVE-2026-24299)",
+  "link": "https://embracethered.com/blog/posts/2026/defcon-talk-copirate-365/",
+  "source": "Embrace The Red",
+  "published": "2026-05-04",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "AI threats in the wild: The current state of prompt injections on the web",
+  "link": "http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html",
+  "source": "Google Security Blog",
+  "published": "2026-04-23",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection",
+   "indirect prompt"
+  ]
+ },
+ {
+  "title": "Breaking Opus 4.7 with ChatGPT (Hacking Claude's Memory)",
+  "link": "https://embracethered.com/blog/posts/2026/breaking-opus-4.7-with-chatgpt/",
+  "source": "Embrace The Red",
+  "published": "2026-04-17",
+  "category": "LLM01",
+  "matched": [
+   "prompt injection",
+   "indirect prompt"
+  ]
+ },
+ {
+  "title": "KI, Quantencomputer, Nachwuchsförderung: Das war der 21. Deutsche IT-Sicherheitskongress",
+  "link": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/260416_BSI-Kongress-2026.html",
+  "source": "BSI Presse",
+  "published": "2026-04-16",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "KI-Betrug im Netz: Nur ein Fünftel überprüft die Quelle",
+  "link": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/260413_KI-Betrug-im-Netz.html",
+  "source": "BSI Presse",
+  "published": "2026-04-13",
+  "category": "LLM09",
+  "matched": [
+   "betrug"
+  ]
+ }
+]
