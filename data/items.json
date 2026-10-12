@@ -1,11 +1,105 @@
 [
  {
+  "title": "Strands Box: Open-source sandbox for AI agents",
+  "link": "https://www.helpnetsecurity.com/2026/10/12/aws-strands-box-open-source-ai-agent-sandbox/",
+  "source": "Help Net Security",
+  "published": "2026-10-12",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "Microsoft’s new model helps AI agents judge their next move",
+  "link": "https://www.helpnetsecurity.com/2026/10/12/microsoft-decision-1-model/",
+  "source": "Help Net Security",
+  "published": "2026-10-12",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
+ },
+ {
+  "title": "Geopolitics and the cyber resilience gap belong in your threat model",
+  "link": "https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/",
+  "source": "Help Net Security",
+  "published": "2026-10-12",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+  "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+  "source": "The Hacker News",
+  "published": "2026-10-12",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+  "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+  "source": "The Hacker News",
+  "published": "2026-10-12",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "AI vulnerability patching has a grading problem",
+  "link": "https://www.helpnetsecurity.com/2026/10/12/ai-vulnerability-patching-grading-problem/",
+  "source": "Help Net Security",
+  "published": "2026-10-12",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
+ },
+ {
+  "title": "Week in review: FortiBleed is still active, Patch Tuesday forecast",
+  "link": "https://www.helpnetsecurity.com/2026/10/11/week-in-review-fortibleed-is-still-active-patch-tuesday-forecast/",
+  "source": "Help Net Security",
+  "published": "2026-10-11",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+  "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+  "source": "The Hacker News",
+  "published": "2026-10-10",
+  "category": "LLM03",
+  "matched": [
+   "third-party"
+  ]
+ },
+ {
+  "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+  "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+  "source": "BleepingComputer",
+  "published": "2026-10-10",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
   "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
   "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
   "source": "The Hacker News",
   "published": "2026-10-10",
   "category": "OTHER",
   "matched": []
+ },
+ {
+  "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+  "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+  "source": "BleepingComputer",
+  "published": "2026-10-10",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
  },
  {
   "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
@@ -827,15 +921,5 @@
   "published": "2026-04-16",
   "category": "OTHER",
   "matched": []
- },
- {
-  "title": "KI-Betrug im Netz: Nur ein Fünftel überprüft die Quelle",
-  "link": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/260413_KI-Betrug-im-Netz.html",
-  "source": "BSI Presse",
-  "published": "2026-04-13",
-  "category": "LLM09",
-  "matched": [
-   "betrug"
-  ]
  }
 ]
