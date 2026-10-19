@@ -1,5 +1,296 @@
 [
  {
+  "title": "With open-weight AI, more of the security burden falls on enterprises",
+  "link": "https://www.helpnetsecurity.com/2026/10/19/open-weight-ai-model-risks-microsoft-nvidia/",
+  "source": "Help Net Security",
+  "published": "2026-10-19",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+  "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+  "source": "The Hacker News",
+  "published": "2026-10-19",
+  "category": "LLM07",
+  "matched": [
+   "api keys"
+  ]
+ },
+ {
+  "title": "KI in der Cybersicherheit: \"Ohne KI in der Verteidigung ist man verloren\"",
+  "link": "https://www.golem.de/news/ki-in-der-cybersicherheit-ohne-ki-in-der-verteidigung-ist-man-verloren-2610-214238.html",
+  "source": "golem.de Security",
+  "published": "2026-10-19",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Half the AI bot traffic hammering your website comes from Meta",
+  "link": "https://www.helpnetsecurity.com/2026/10/19/datadome-ai-agent-traffic-report/",
+  "source": "Help Net Security",
+  "published": "2026-10-19",
+  "category": "LLM06",
+  "matched": [
+   "agent"
+  ]
+ },
+ {
+  "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+  "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+  "source": "The Hacker News",
+  "published": "2026-10-19",
+  "category": "LLM06",
+  "matched": [
+   "agent"
+  ]
+ },
+ {
+  "title": "Week in review: Hidden implant in Ledger wallets linked to $93M theft, 1,500+ npm packages exposed",
+  "link": "https://www.helpnetsecurity.com/2026/10/18/week-in-review-hidden-implant-in-ledger-wallets-linked-to-93m-theft-1500-npm-packages-exposed/",
+  "source": "Help Net Security",
+  "published": "2026-10-18",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "Künstliche Intelligenz: Chatbots plaudern mit der Werbeindustrie",
+  "link": "https://www.golem.de/news/kuenstliche-intelligenz-chatbots-plaudern-mit-der-werbeindustrie-2610-214209.html",
+  "source": "golem.de Security",
+  "published": "2026-10-17",
+  "category": "LLM02",
+  "matched": [
+   "datenschutz"
+  ]
+ },
+ {
+  "title": "Zweites Update in einer Woche: Google schließt erneut kritische Lücke in Chrome",
+  "link": "https://www.golem.de/news/zweites-update-in-einer-woche-google-schliesst-erneut-kritische-luecke-in-chrome-2610-214175.html",
+  "source": "golem.de Security",
+  "published": "2026-10-16",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+  "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+  "source": "The Hacker News",
+  "published": "2026-10-16",
+  "category": "LLM03",
+  "matched": [
+   "third-party"
+  ]
+ },
+ {
+  "title": "Managing open-weight model risk in enterprise deployments",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-10-16",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+  "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+  "source": "BleepingComputer",
+  "published": "2026-10-16",
+  "category": "LLM02",
+  "matched": [
+   "sensitive information"
+  ]
+ },
+ {
+  "title": "Dank KI: Rebootfester Jailbreak für iOS 27.0.1 bis zum iPhone 18 Pro, untethered",
+  "link": "https://www.heise.de/news/Untethered-Jailbreak-fuer-iOS-27-0-1-auf-iPhone-18-Pro-der-Reboots-ueberlebt-11490726.html",
+  "source": "heise Security",
+  "published": "2026-10-16",
+  "category": "LLM01",
+  "matched": [
+   "jailbreak"
+  ]
+ },
+ {
+  "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+  "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+  "source": "The Hacker News",
+  "published": "2026-10-16",
+  "category": "LLM02",
+  "matched": [
+   "sensitive data",
+   "personal data",
+   "confidential"
+  ]
+ },
+ {
+  "title": "Auslegungssache 170: Wie Deepfakes das Recht herausfordern",
+  "link": "https://www.heise.de/hintergrund/Auslegungssache-170-Wie-Deepfakes-das-Recht-herausfordern-11486691.html",
+  "source": "heise Security",
+  "published": "2026-10-16",
+  "category": "LLM09",
+  "matched": [
+   "deepfakes"
+  ]
+ },
+ {
+  "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+  "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+  "source": "The Hacker News",
+  "published": "2026-10-16",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Why AI Confidence Is Not Validation",
+  "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+  "source": "The Hacker News",
+  "published": "2026-10-15",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+  "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+  "source": "The Hacker News",
+  "published": "2026-10-15",
+  "category": "LLM05",
+  "matched": [
+   "rce"
+  ]
+ },
+ {
+  "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+  "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+  "source": "The Hacker News",
+  "published": "2026-10-15",
+  "category": "LLM09",
+  "matched": [
+   "fake"
+  ]
+ },
+ {
+  "title": "Anzeige: Microsoft Copilot im Unternehmen gezielt einsetzen",
+  "link": "https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2610-213973.html",
+  "source": "golem.de Security",
+  "published": "2026-10-15",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Android gets AI defenses against messaging scams, fake calls",
+  "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+  "source": "BleepingComputer",
+  "published": "2026-10-15",
+  "category": "LLM09",
+  "matched": [
+   "fake",
+   "scam"
+  ]
+ },
+ {
+  "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+  "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+  "source": "The Hacker News",
+  "published": "2026-10-14",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
+ },
+ {
+  "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+  "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+  "source": "The Hacker News",
+  "published": "2026-10-14",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+  "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+  "source": "The Hacker News",
+  "published": "2026-10-14",
+  "category": "LLM09",
+  "matched": [
+   "deepfake"
+  ]
+ },
+ {
+  "title": "Gegen Anthropic und OpenAI: EU leitet offizielles Verfahren wegen Hugging-Face-Hack ein",
+  "link": "https://www.golem.de/news/gegen-anthropic-und-openai-eu-leitet-offizielles-verfahren-wegen-hugging-face-hack-ein-2610-214116.html",
+  "source": "golem.de Security",
+  "published": "2026-10-14",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+  "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+  "source": "The Hacker News",
+  "published": "2026-10-14",
+  "category": "LLM06",
+  "matched": [
+   "agent"
+  ]
+ },
+ {
+  "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+  "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+  "source": "The Hacker News",
+  "published": "2026-10-14",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Über Zero-Day-Lücke: Offenbar erster KI-Angriff auf deutsche Kommune",
+  "link": "https://www.golem.de/news/ueber-zero-day-luecke-offenbar-erster-ki-angriff-auf-deutsche-kommune-2610-214050.html",
+  "source": "golem.de Security",
+  "published": "2026-10-13",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+  "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+  "source": "The Hacker News",
+  "published": "2026-10-13",
+  "category": "LLM06",
+  "matched": [
+   "privilege"
+  ]
+ },
+ {
+  "title": "Visual Studio Copilot and SSMS Remote Code Execution (CVE-2026-103572)",
+  "link": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
+  "source": "Embrace The Red",
+  "published": "2026-10-13",
+  "category": "LLM05",
+  "matched": [
+   "remote code execution",
+   "code execution"
+  ]
+ },
+ {
+  "title": "Anthropic warnt: Unsichere IoT-Geräte können KI-Würmer verbreiten",
+  "link": "https://www.golem.de/news/anthropic-warnt-unsichere-iot-geraete-koennen-ki-wuermer-verbreiten-2610-214047.html",
+  "source": "golem.de Security",
+  "published": "2026-10-13",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+  "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+  "source": "The Hacker News",
+  "published": "2026-10-13",
+  "category": "LLM06",
+  "matched": [
+   "autonomous"
+  ]
+ },
+ {
   "title": "Strands Box: Open-source sandbox for AI agents",
   "link": "https://www.helpnetsecurity.com/2026/10/12/aws-strands-box-open-source-ai-agent-sandbox/",
   "source": "Help Net Security",
@@ -902,24 +1193,5 @@
    "prompt injection",
    "indirect prompt"
   ]
- },
- {
-  "title": "Breaking Opus 4.7 with ChatGPT (Hacking Claude's Memory)",
-  "link": "https://embracethered.com/blog/posts/2026/breaking-opus-4.7-with-chatgpt/",
-  "source": "Embrace The Red",
-  "published": "2026-04-17",
-  "category": "LLM01",
-  "matched": [
-   "prompt injection",
-   "indirect prompt"
-  ]
- },
- {
-  "title": "KI, Quantencomputer, Nachwuchsförderung: Das war der 21. Deutsche IT-Sicherheitskongress",
-  "link": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/260416_BSI-Kongress-2026.html",
-  "source": "BSI Presse",
-  "published": "2026-04-16",
-  "category": "OTHER",
-  "matched": []
  }
 ]
