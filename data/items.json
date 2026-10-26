@@ -1,5 +1,368 @@
 [
  {
+  "title": "r/opensource bans AI projects, and solo devs go down with them",
+  "link": "https://www.helpnetsecurity.com/2026/10/26/reddit-r-opensource-ai-ban/",
+  "source": "Help Net Security",
+  "published": "2026-10-26",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Product showcase: Stellar Cyber’s ISOC platform provides full-cycle architecture",
+  "link": "https://www.helpnetsecurity.com/2026/10/26/product-showcase-stellar-cyber-isoc-platform/",
+  "source": "Help Net Security",
+  "published": "2026-10-26",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Partnerangebot: heise conferences gmbh – “IT-Security im KI-Zeitalter – der Online-Thementag für Security-Profis”",
+  "link": "https://www.bsi.bund.de/Webs/ACS/DE/Home/_/infos/20261202_heise-conference_IT-Security_KI.html",
+  "source": "BSI Allianz für Cyber-Sicherheit",
+  "published": "2026-10-26",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+  "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+  "source": "The Hacker News",
+  "published": "2026-10-26",
+  "category": "LLM03",
+  "matched": [
+   "npm package"
+  ]
+ },
+ {
+  "title": "KI-Assistent: Google nutzt Schlupfloch für personalisierte Werbung",
+  "link": "https://www.golem.de/news/personal-intelligence-google-macht-gmail-und-fotos-fuer-werbung-nutzbar-2610-214497.html",
+  "source": "golem.de Security",
+  "published": "2026-10-26",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Google open-sources the Elephant-Goldfish Model plugin its engineers use to catch AI coding mistakes",
+  "link": "https://www.helpnetsecurity.com/2026/10/26/google-elephant-goldfish-model-plugin/",
+  "source": "Help Net Security",
+  "published": "2026-10-26",
+  "category": "LLM03",
+  "matched": [
+   "plugin"
+  ]
+ },
+ {
+  "title": "Fortinet patches critical FortiOS flaws found with AI help",
+  "link": "https://www.helpnetsecurity.com/2026/10/26/fortinet-patches-critical-fortios-flaws-found-with-ai-help/",
+  "source": "Help Net Security",
+  "published": "2026-10-26",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Forgotten AI agents may still access sensitive company data",
+  "link": "https://www.helpnetsecurity.com/2026/10/26/arrakis-dormant-ai-agent-risks-report/",
+  "source": "Help Net Security",
+  "published": "2026-10-26",
+  "category": "LLM06",
+  "matched": [
+   "agents",
+   "autonomous"
+  ]
+ },
+ {
+  "title": "Anthropic details what stops Claude Duet from going rogue",
+  "link": "https://www.helpnetsecurity.com/2026/10/26/anthropic-claude-duet-security-safeguards/",
+  "source": "Help Net Security",
+  "published": "2026-10-26",
+  "category": "LLM02",
+  "matched": [
+   "sensitive information",
+   "privacy"
+  ]
+ },
+ {
+  "title": "AI slop is piling up highest on the biggest open-source projects",
+  "link": "https://www.helpnetsecurity.com/2026/10/26/linux-foundation-open-source-ai-slop/",
+  "source": "Help Net Security",
+  "published": "2026-10-26",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "AI coding agents fall for malicious instructions planted in the Downloads folder",
+  "link": "https://www.helpnetsecurity.com/2026/10/26/ai-coding-agents-malware-openai-codex/",
+  "source": "Help Net Security",
+  "published": "2026-10-26",
+  "category": "LLM03",
+  "matched": [
+   "npm package"
+  ]
+ },
+ {
+  "title": "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
+  "link": "https://www.heise.de/news/Cyberagentur-Software-Schwachstellen-bleiben-laenger-ein-Problem-11499379.html",
+  "source": "heise Security",
+  "published": "2026-10-25",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+  "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+  "source": "The Hacker News",
+  "published": "2026-10-25",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
+ },
+ {
+  "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+  "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+  "source": "BleepingComputer",
+  "published": "2026-10-25",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+  "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+  "source": "The Hacker News",
+  "published": "2026-10-24",
+  "category": "LLM02",
+  "matched": [
+   "privacy"
+  ]
+ },
+ {
+  "title": "You gave your AI agent access, but who is giving it orders?",
+  "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+  "source": "BleepingComputer",
+  "published": "2026-10-23",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents",
+   "permissions"
+  ]
+ },
+ {
+  "title": "W3C: Ein Auftrag ist kein Freibrief für KI-Agenten",
+  "link": "https://www.heise.de/news/W3C-Ein-Auftrag-ist-kein-Freibrief-fuer-KI-Agenten-11497919.html",
+  "source": "heise Security",
+  "published": "2026-10-23",
+  "category": "LLM06",
+  "matched": [
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+  "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+  "source": "BleepingComputer",
+  "published": "2026-10-23",
+  "category": "LLM09",
+  "matched": [
+   "phishing"
+  ]
+ },
+ {
+  "title": "JFrog führt BYOK-Unterstützung für KI-Sicherheitsscans ein",
+  "link": "https://www.heise.de/news/JFrog-AI-Security-Mehr-Kontrolle-ueber-Schatten-KI-auf-Entwicklerrechnern-11496904.html",
+  "source": "heise Security",
+  "published": "2026-10-23",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+  "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+  "source": "The Hacker News",
+  "published": "2026-10-23",
+  "category": "LLM06",
+  "matched": [
+   "agents",
+   "autonomous"
+  ]
+ },
+ {
+  "title": "Daten-Omnibus: EU-Ministerrat will Datenschutz für KI-Training lockern",
+  "link": "https://www.golem.de/news/daten-omnibus-eu-ministerrat-will-datenschutz-fuer-ki-training-lockern-2610-214448.html",
+  "source": "golem.de Security",
+  "published": "2026-10-23",
+  "category": "LLM02",
+  "matched": [
+   "datenschutz"
+  ]
+ },
+ {
+  "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+  "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+  "source": "The Hacker News",
+  "published": "2026-10-23",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
+ },
+ {
+  "title": "AWS Continuum: KI findet und behebt Code-Schwachstellen",
+  "link": "https://www.heise.de/news/AWS-Continuum-KI-findet-und-behebt-Code-Schwachstellen-11497692.html",
+  "source": "heise Security",
+  "published": "2026-10-23",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+  "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+  "source": "The Hacker News",
+  "published": "2026-10-22",
+  "category": "LLM07",
+  "matched": [
+   "secrets"
+  ]
+ },
+ {
+  "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+  "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+  "source": "The Hacker News",
+  "published": "2026-10-22",
+  "category": "LLM06",
+  "matched": [
+   "agent"
+  ]
+ },
+ {
+  "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+  "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+  "source": "The Hacker News",
+  "published": "2026-10-22",
+  "category": "LLM05",
+  "matched": [
+   "run code",
+   "execute code"
+  ]
+ },
+ {
+  "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+  "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+  "source": "The Hacker News",
+  "published": "2026-10-22",
+  "category": "LLM03",
+  "matched": [
+   "malicious package",
+   "pypi"
+  ]
+ },
+ {
+  "title": "Johannes Schätzl: SPD-Digitalpolitiker kritisiert nach PHP-Lücke das BSI",
+  "link": "https://www.golem.de/news/johannes-schaetzl-spd-digitalpolitiker-kritisiert-nach-php-luecke-das-bsi-2610-214409.html",
+  "source": "golem.de Security",
+  "published": "2026-10-22",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+  "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+  "source": "The Hacker News",
+  "published": "2026-10-22",
+  "category": "LLM03",
+  "matched": [
+   "supply chain"
+  ]
+ },
+ {
+  "title": "Your AI agent fixed the bug, but what else did it change?",
+  "link": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+  "source": "Trail of Bits",
+  "published": "2026-10-21",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+  "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+  "source": "The Hacker News",
+  "published": "2026-10-21",
+  "category": "LLM03",
+  "matched": [
+   "third-party"
+  ]
+ },
+ {
+  "title": "The Harness Is the Hard Part of Agentic Pentesting",
+  "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+  "source": "The Hacker News",
+  "published": "2026-10-21",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agentic"
+  ]
+ },
+ {
+  "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+  "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+  "source": "The Hacker News",
+  "published": "2026-10-21",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "Meta Muse: Forscher finden Tausende geteilte KI-Chats über DNS-Datenbanken",
+  "link": "https://www.golem.de/news/meta-muse-forscher-finden-tausende-geteilte-ki-chats-ueber-dns-datenbanken-2610-214351.html",
+  "source": "golem.de Security",
+  "published": "2026-10-21",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+  "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+  "source": "The Hacker News",
+  "published": "2026-10-21",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-10-21",
+  "category": "LLM03",
+  "matched": [
+   "supply chain"
+  ]
+ },
+ {
+  "title": "KI-Reports überlasten Curl-Entwickler: \"Wir müssen handeln, um zu überleben\"",
+  "link": "https://www.golem.de/news/ki-reports-ueberlasten-curl-entwickler-wir-muessen-handeln-um-zu-ueberleben-2610-214288.html",
+  "source": "golem.de Security",
+  "published": "2026-10-20",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Introducing a new AI chapter in the NCSC research problem book",
+  "link": "https://www.ncsc.gov.uk/blogs/introducing-new-ai-chapter-ncsc-research-problem-book",
+  "source": "NCSC UK",
+  "published": "2026-10-20",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
   "title": "With open-weight AI, more of the security burden falls on enterprises",
   "link": "https://www.helpnetsecurity.com/2026/10/19/open-weight-ai-model-risks-microsoft-nvidia/",
   "source": "Help Net Security",
@@ -1182,16 +1545,5 @@
   "published": "2026-05-04",
   "category": "OTHER",
   "matched": []
- },
- {
-  "title": "AI threats in the wild: The current state of prompt injections on the web",
-  "link": "http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html",
-  "source": "Google Security Blog",
-  "published": "2026-04-23",
-  "category": "LLM01",
-  "matched": [
-   "prompt injection",
-   "indirect prompt"
-  ]
  }
 ]
