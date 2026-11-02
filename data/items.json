@@ -1,5 +1,328 @@
 [
  {
+  "title": "robots.txt auf Diät: Ein einziger Befehl soll alle KI-Trainer stoppen",
+  "link": "https://www.heise.de/news/KI-Training-Ein-Eintrag-in-der-robots-txt-soll-bald-fuer-alle-Bots-reichen-11508208.html",
+  "source": "heise Security",
+  "published": "2026-11-02",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "US-Regierung verweigert Herausgabe von seinen KI-Sicherheitsregeln",
+  "link": "https://www.heise.de/news/USA-halten-Pruefregeln-fuer-KI-Modelle-unter-Verschluss-11507982.html",
+  "source": "heise Security",
+  "published": "2026-11-02",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "The first ten lines of a command policy for AI coding agents",
+  "link": "https://www.helpnetsecurity.com/2026/11/02/vinay-thakker-kloudstax-ai-agent-access-control/",
+  "source": "Help Net Security",
+  "published": "2026-11-02",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "Ransomware gang talked AI agents into doing much of its dirty work",
+  "link": "https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/",
+  "source": "Help Net Security",
+  "published": "2026-11-02",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
+ },
+ {
+  "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+  "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+  "source": "The Hacker News",
+  "published": "2026-11-02",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+  "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+  "source": "The Hacker News",
+  "published": "2026-11-02",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
+ },
+ {
+  "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+  "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+  "source": "The Hacker News",
+  "published": "2026-11-02",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+  "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+  "source": "The Hacker News",
+  "published": "2026-11-02",
+  "category": "LLM05",
+  "matched": [
+   "arbitrary code",
+   "run code",
+   "run arbitrary"
+  ]
+ },
+ {
+  "title": "Byoky: Open-source wallet for AI API keys",
+  "link": "https://www.helpnetsecurity.com/2026/11/02/byoky-open-source-ai-api-key-wallet/",
+  "source": "Help Net Security",
+  "published": "2026-11-02",
+  "category": "LLM07",
+  "matched": [
+   "api keys"
+  ]
+ },
+ {
+  "title": "AI-powered infostealer picks out the most profitable parts of your stolen data",
+  "link": "https://www.helpnetsecurity.com/2026/11/02/ai-powered-infostealer-volta-victim-profiling/",
+  "source": "Help Net Security",
+  "published": "2026-11-02",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "(g+) Security: Wie gefährlich sind lokale Coding-Agenten?",
+  "link": "https://www.golem.de/news/security-wie-gefaehrlich-sind-lokale-coding-agenten-2611-214733.html",
+  "source": "golem.de Security",
+  "published": "2026-11-02",
+  "category": "LLM07",
+  "matched": [
+   "zugangsdaten"
+  ]
+ },
+ {
+  "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+  "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+  "source": "BleepingComputer",
+  "published": "2026-11-01",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Northflank security breach leads to abuse of customers' AI API keys",
+  "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+  "source": "BleepingComputer",
+  "published": "2026-10-31",
+  "category": "LLM07",
+  "matched": [
+   "api keys",
+   "secrets",
+   "credentials"
+  ]
+ },
+ {
+  "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-10-31",
+  "category": "LLM03",
+  "matched": [
+   "extension"
+  ]
+ },
+ {
+  "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+  "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+  "source": "BleepingComputer",
+  "published": "2026-10-31",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+  "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+  "source": "The Hacker News",
+  "published": "2026-10-31",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Partnerangebot: PSW TRAINING – Schulung „ISO/IEC 42001 Foundation”",
+  "link": "https://www.bsi.bund.de/Webs/ACS/DE/Home/_/infos/20261130_PSW_ISO_IEC.html",
+  "source": "BSI Allianz für Cyber-Sicherheit",
+  "published": "2026-10-30",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+  "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+  "source": "The Hacker News",
+  "published": "2026-10-30",
+  "category": "LLM03",
+  "matched": [
+   "extension"
+  ]
+ },
+ {
+  "title": "Erneut kritischer Bug in Linux TCP/IP aufgedeckt – Updates in Arbeit",
+  "link": "https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html",
+  "source": "heise Security",
+  "published": "2026-10-30",
+  "category": "LLM05",
+  "matched": [
+   "remote code execution",
+   "code execution"
+  ]
+ },
+ {
+  "title": "Datenleck: Mitarbeiter soll KI-Agenten Zugriff auf Pentagon-System gewährt haben",
+  "link": "https://www.golem.de/news/datenleck-mitarbeiter-gewaehrte-ki-agenten-zugriff-auf-pentagon-system-2610-214666.html",
+  "source": "golem.de Security",
+  "published": "2026-10-30",
+  "category": "LLM06",
+  "matched": [
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "Claude-Code-Erweiterung im Cursor-Marktplatz mit Malware infiziert",
+  "link": "https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html",
+  "source": "heise Security",
+  "published": "2026-10-30",
+  "category": "LLM04",
+  "matched": [
+   "backdoor"
+  ]
+ },
+ {
+  "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+  "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+  "source": "The Hacker News",
+  "published": "2026-10-30",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+  "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+  "source": "The Hacker News",
+  "published": "2026-10-29",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-10-29",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+  "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+  "source": "The Hacker News",
+  "published": "2026-10-29",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+  "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+  "source": "The Hacker News",
+  "published": "2026-10-29",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+  "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+  "source": "The Hacker News",
+  "published": "2026-10-29",
+  "category": "LLM07",
+  "matched": [
+   "credentials"
+  ]
+ },
+ {
+  "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+  "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+  "source": "The Hacker News",
+  "published": "2026-10-29",
+  "category": "LLM06",
+  "matched": [
+   "agentic"
+  ]
+ },
+ {
+  "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+  "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+  "source": "The Hacker News",
+  "published": "2026-10-29",
+  "category": "LLM09",
+  "matched": [
+   "fake"
+  ]
+ },
+ {
+  "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+  "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+  "source": "The Hacker News",
+  "published": "2026-10-29",
+  "category": "LLM07",
+  "matched": [
+   "credentials"
+  ]
+ },
+ {
+  "title": "Wazuh and AI for Enhanced SOC Workflows",
+  "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+  "source": "The Hacker News",
+  "published": "2026-10-28",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "The CISO’s evolving role: Protecting and defending in the agentic era",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-10-28",
+  "category": "LLM06",
+  "matched": [
+   "agents",
+   "agentic"
+  ]
+ },
+ {
+  "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+  "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+  "source": "The Hacker News",
+  "published": "2026-10-28",
+  "category": "LLM06",
+  "matched": [
+   "privilege"
+  ]
+ },
+ {
+  "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+  "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+  "source": "The Hacker News",
+  "published": "2026-10-28",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Antrag: Grüne fordern Haftung für KI-Firmen und Management",
+  "link": "https://www.golem.de/news/antrag-gruene-fordern-haftung-fuer-ki-firmen-und-management-2610-214570.html",
+  "source": "golem.de Security",
+  "published": "2026-10-27",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
   "title": "r/opensource bans AI projects, and solo devs go down with them",
   "link": "https://www.helpnetsecurity.com/2026/10/26/reddit-r-opensource-ai-ban/",
   "source": "Help Net Security",
@@ -69,6 +392,14 @@
    "agents",
    "autonomous"
   ]
+ },
+ {
+  "title": "Anzeige: Microsoft Copilot im Unternehmen erfolgreich einsetzen",
+  "link": "https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-erfolgreich-einsetzen-2610-214468.html",
+  "source": "golem.de Security",
+  "published": "2026-10-26",
+  "category": "OTHER",
+  "matched": []
  },
  {
   "title": "Anthropic details what stops Claude Duet from going rogue",
@@ -1535,14 +1866,6 @@
   "link": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/260512_G7_Richtlinie_SBOM_for_AI.html",
   "source": "BSI Presse",
   "published": "2026-05-12",
-  "category": "OTHER",
-  "matched": []
- },
- {
-  "title": "Copirate 365 at DEF CON: Plundering in the Depths of Microsoft Copilot (CVE-2026-24299)",
-  "link": "https://embracethered.com/blog/posts/2026/defcon-talk-copirate-365/",
-  "source": "Embrace The Red",
-  "published": "2026-05-04",
   "category": "OTHER",
   "matched": []
  }
