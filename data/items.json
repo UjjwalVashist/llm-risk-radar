@@ -1,5 +1,391 @@
 [
  {
+  "title": "Wirken: Open-source AI agent gateway",
+  "link": "https://www.helpnetsecurity.com/2026/11/09/wirken-open-source-ai-agent-gateway/",
+  "source": "Help Net Security",
+  "published": "2026-11-09",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "Trio accused of using deepfake CEOs and bogus lawyers to scam businesses out of $129 million",
+  "link": "https://www.helpnetsecurity.com/2026/11/09/deepfake-ceo-fraud-129-million-indictment/",
+  "source": "Help Net Security",
+  "published": "2026-11-09",
+  "category": "LLM09",
+  "matched": [
+   "deepfake",
+   "deepfakes",
+   "scam"
+  ]
+ },
+ {
+  "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+  "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+  "source": "BleepingComputer",
+  "published": "2026-11-09",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+  "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+  "source": "The Hacker News",
+  "published": "2026-11-09",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
+ },
+ {
+  "title": "Product showcase: What the Malwarebytes Claude connector reveals about unexpected texts",
+  "link": "https://www.helpnetsecurity.com/2026/11/09/product-showcase-malwarebytes-claude-scam-detection/",
+  "source": "Help Net Security",
+  "published": "2026-11-09",
+  "category": "LLM06",
+  "matched": [
+   "permissions"
+  ]
+ },
+ {
+  "title": "Multiplikatorangebot: CAST e.V. – Workshop „KI-Anwendungen in der digitalen Forensik”",
+  "link": "https://www.bsi.bund.de/Webs/ACS/DE/Home/_/infos/20261210_CAST_Workshop_KI_Forensik.html",
+  "source": "BSI Allianz für Cyber-Sicherheit",
+  "published": "2026-11-09",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "KI-Coding-Agenten verfrachten Zugangsdaten in öffentliche Repositories",
+  "link": "https://www.heise.de/news/KI-Coding-Agenten-verfrachten-Zugangsdaten-in-oeffentliche-Repositories-11517278.html",
+  "source": "heise Security",
+  "published": "2026-11-09",
+  "category": "LLM07",
+  "matched": [
+   "zugangsdaten"
+  ]
+ },
+ {
+  "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+  "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+  "source": "The Hacker News",
+  "published": "2026-11-09",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Cyberangriff auf WorkOS: Abtrünniger KI-Agent hackt Entwicklerplattform",
+  "link": "https://www.golem.de/news/cyberangriff-auf-workos-abtruenniger-ki-agent-hackt-entwicklerplattform-2611-214993.html",
+  "source": "golem.de Security",
+  "published": "2026-11-09",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "ki-agent"
+  ]
+ },
+ {
+  "title": "Companies seeking an MSP doubt their ability to spot cyberattacks",
+  "link": "https://www.helpnetsecurity.com/2026/11/09/barracuda-msp-cybersecurity-services-expectations-report/",
+  "source": "Help Net Security",
+  "published": "2026-11-09",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Behördendaten, US-Dienste, KI-Streit: Der Schweizer Mythos Proton wird entzaubert",
+  "link": "https://www.golem.de/news/behoerdendaten-us-dienste-ki-streit-der-schweizer-mythos-proton-wird-entzaubert-2611-214978.html",
+  "source": "golem.de Security",
+  "published": "2026-11-09",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "An average of 8 minutes is all hackers need to log in with stolen credentials",
+  "link": "https://www.helpnetsecurity.com/2026/11/09/elastic-businesses-remote-access-attacks-report/",
+  "source": "Help Net Security",
+  "published": "2026-11-09",
+  "category": "LLM07",
+  "matched": [
+   "credentials"
+  ]
+ },
+ {
+  "title": "ARTEX goes from pentesting tool to attacker staple in three months",
+  "link": "https://www.helpnetsecurity.com/2026/11/09/artex-goes-from-pentesting-tool-to-attacker-staple-in-three-months/",
+  "source": "Help Net Security",
+  "published": "2026-11-09",
+  "category": "LLM06",
+  "matched": [
+   "agent"
+  ]
+ },
+ {
+  "title": "Sichere Architektur für KI-Agenten im Backoffice",
+  "link": "https://www.heise.de/hintergrund/Sichere-Architektur-fuer-KI-Agenten-im-Backoffice-11514414.html",
+  "source": "heise Security",
+  "published": "2026-11-07",
+  "category": "LLM06",
+  "matched": [
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+  "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+  "source": "The Hacker News",
+  "published": "2026-11-07",
+  "category": "LLM07",
+  "matched": [
+   "api keys"
+  ]
+ },
+ {
+  "title": "ARTEX abuse expands as cybercriminals target financial sector",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-11-07",
+  "category": "LLM06",
+  "matched": [
+   "agentic"
+  ]
+ },
+ {
+  "title": "(g+) Surveillance Pricing: Wie weit dürfen Händler Preise personalisieren?",
+  "link": "https://www.golem.de/news/surveillance-pricing-wie-weit-duerfen-haendler-preise-personalisieren-2611-214937.html",
+  "source": "golem.de Security",
+  "published": "2026-11-07",
+  "category": "LLM02",
+  "matched": [
+   "datenschutz"
+  ]
+ },
+ {
+  "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+  "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+  "source": "BleepingComputer",
+  "published": "2026-11-06",
+  "category": "LLM06",
+  "matched": [
+   "agent"
+  ]
+ },
+ {
+  "title": "OpenAIs für Cybersecurity verbessertes KI-Modell GPT-6 Cyber hält sich an Regeln",
+  "link": "https://www.heise.de/news/OpenAIs-fuer-Cybersecurity-verbessertes-KI-Modell-GPT-6-Cyber-haelt-sich-an-Regeln-11514280.html",
+  "source": "heise Security",
+  "published": "2026-11-06",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+  "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+  "source": "BleepingComputer",
+  "published": "2026-11-06",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+  "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+  "source": "The Hacker News",
+  "published": "2026-11-06",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+  "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+  "source": "The Hacker News",
+  "published": "2026-11-06",
+  "category": "LLM05",
+  "matched": [
+   "run code"
+  ]
+ },
+ {
+  "title": "Anzeige: Microsoft Copilot im Unternehmen gezielt einsetzen",
+  "link": "https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2611-214911.html",
+  "source": "golem.de Security",
+  "published": "2026-11-06",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "After Binance, check what your signing systems can approve",
+  "link": "https://blog.trailofbits.com/2026/11/06/after-binance-check-what-your-signing-systems-can-approve/",
+  "source": "Trail of Bits",
+  "published": "2026-11-06",
+  "category": "LLM07",
+  "matched": [
+   "credentials"
+  ]
+ },
+ {
+  "title": "​​​​What’s new in Microsoft Security: November 2026",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-11-05",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "privilege"
+  ]
+ },
+ {
+  "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-11-05",
+  "category": "LLM06",
+  "matched": [
+   "agents",
+   "agentic"
+  ]
+ },
+ {
+  "title": "Smart Reports: Admins sehen, wie viel Claude-Nutzung privat ist",
+  "link": "https://www.golem.de/news/smart-reports-admins-sehen-wie-viel-claude-nutzung-privat-ist-2611-214874.html",
+  "source": "golem.de Security",
+  "published": "2026-11-05",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+  "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+  "source": "The Hacker News",
+  "published": "2026-11-05",
+  "category": "LLM02",
+  "matched": [
+   "exfiltration",
+   "exfiltrate"
+  ]
+ },
+ {
+  "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+  "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+  "source": "The Hacker News",
+  "published": "2026-11-05",
+  "category": "LLM06",
+  "matched": [
+   "privilege"
+  ]
+ },
+ {
+  "title": "Mit KI-Agenten: OpenAI will in Linux-System fast 1.000 Root-Lücken gefunden haben",
+  "link": "https://www.golem.de/news/mit-ki-agenten-openai-will-in-linux-system-fast-1-000-root-luecken-gefunden-haben-2611-214884.html",
+  "source": "golem.de Security",
+  "published": "2026-11-05",
+  "category": "LLM06",
+  "matched": [
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+  "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+  "source": "The Hacker News",
+  "published": "2026-11-05",
+  "category": "LLM03",
+  "matched": [
+   "backdoored"
+  ]
+ },
+ {
+  "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+  "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+  "source": "The Hacker News",
+  "published": "2026-11-04",
+  "category": "LLM01",
+  "matched": [
+   "jailbreak"
+  ]
+ },
+ {
+  "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+  "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+  "source": "The Hacker News",
+  "published": "2026-11-04",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "(g+) KI in der Softwareentwicklung: Warum Prompts Coding-Agenten nicht absichern",
+  "link": "https://www.golem.de/news/ki-in-der-softwareentwicklung-warum-prompts-coding-agenten-nicht-absichern-2611-214799.html",
+  "source": "golem.de Security",
+  "published": "2026-11-04",
+  "category": "LLM06",
+  "matched": [
+   "ki-agenten"
+  ]
+ },
+ {
+  "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI Agent Management Platforms",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-11-03",
+  "category": "LLM06",
+  "matched": [
+   "agent"
+  ]
+ },
+ {
+  "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+  "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+  "source": "The Hacker News",
+  "published": "2026-11-03",
+  "category": "LLM07",
+  "matched": [
+   "api key"
+  ]
+ },
+ {
+  "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
+  "link": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years",
+  "source": "NCSC UK",
+  "published": "2026-11-03",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+  "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+  "source": "The Hacker News",
+  "published": "2026-11-03",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+  "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+  "source": "The Hacker News",
+  "published": "2026-11-03",
+  "category": "LLM09",
+  "matched": [
+   "fake",
+   "phishing"
+  ]
+ },
+ {
+  "title": "Artificial intelligence and cyber intrusion",
+  "link": "https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion",
+  "source": "NCSC UK",
+  "published": "2026-11-03",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
   "title": "robots.txt auf Diät: Ein einziger Befehl soll alle KI-Trainer stoppen",
   "link": "https://www.heise.de/news/KI-Training-Ein-Eintrag-in-der-robots-txt-soll-bald-fuer-alle-Bots-reichen-11508208.html",
   "source": "heise Security",
@@ -1860,13 +2246,5 @@
   "matched": [
    "prompt injection"
   ]
- },
- {
-  "title": "BSI veröffentlicht G7-Richtlinie zu Software Bill of Materials for AI",
-  "link": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2026/260512_G7_Richtlinie_SBOM_for_AI.html",
-  "source": "BSI Presse",
-  "published": "2026-05-12",
-  "category": "OTHER",
-  "matched": []
  }
 ]
