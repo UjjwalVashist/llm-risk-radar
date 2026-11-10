@@ -145,7 +145,9 @@ def test_site_is_built_with_a_page_per_week(tmp_path):
 def test_html_in_feed_titles_is_removed_when_reading(tmp_path):
     site.build(sample_items(), RULES, TODAY, tmp_path)
     index = (tmp_path / "index.html").read_text()
-    assert "<script>" not in index.split("</nav>")[1] and "alert(1) LLM chatbot leaks data" in index
+    body = index.split("</nav>")[1]
+    assert "<script>alert" not in body and "&lt;script&gt;" not in body  # tags were stripped when reading
+    assert "alert(1) LLM chatbot leaks data" in index
 
 
 def test_the_page_builder_escapes_whatever_it_is_given(tmp_path):
@@ -181,3 +183,30 @@ def test_update_runs_end_to_end(monkeypatch, tmp_path, capsys):
     assert cli.update(TODAY) == 0  # running again adds nothing
     assert "0 new" in capsys.readouterr().out
     assert len(store.load()) == 3
+
+
+def test_cves_and_urgent_words_mark_priority_items():
+    assert site.signals({"title": "Ollama flaw CVE-2026-12345 actively exploited"}) == (["CVE-2026-12345"], True)
+    assert site.signals({"title": "Zero-day in AI coding assistant"}) == ([], True)
+    assert site.signals({"title": "New guide to AI governance"}) == ([], False)
+
+
+def test_week_before_crosses_the_year():
+    assert site.week_before("2027-W01") == "2026-W53" and site.last_weeks("2026-W41", 3) == ["2026-W39", "2026-W40", "2026-W41"]
+
+
+def test_site_has_an_rss_feed_and_trend_lines(tmp_path):
+    import xml.etree.ElementTree as ET
+    site.build(sample_items(), RULES, TODAY, tmp_path)
+    channel = ET.parse(tmp_path / "feed.xml").getroot().find("channel")
+    assert channel.find("title").text == "LLM Risk Radar" and len(channel.findall("item")) == len(sample_items())
+    index = (tmp_path / "index.html").read_text()
+    assert index.count('class="spark"') == 11 and "Priority only" in index
+
+
+def test_home_page_leads_with_the_last_complete_week(tmp_path):
+    items = [{"title": "AI agent news", "link": f"https://e.com/{d}", "source": "S", "published": d,
+              "category": "LLM06", "matched": ["agent"]} for d in ("2026-10-05", "2026-10-06", "2026-10-12")]
+    site.build(items, RULES, dt.date(2026, 10, 12), tmp_path)  # a Monday: week 42 has just begun
+    index = (tmp_path / "index.html").read_text()
+    assert "Week 41, 2026" in index and "Week 42, 2026" not in index.split("Heatmap")[0]

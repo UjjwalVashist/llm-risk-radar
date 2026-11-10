@@ -34,8 +34,12 @@ flowchart LR
 4. **Store** (`radar/store.py`): items are merged into `data/items.json`, one per
    link, and dropped after 180 days.
 5. **Publish** (`radar/site.py`, `radar/onepager.py`): writes plain HTML to `docs/`:
-   the current week, one page per week, a trend table, the ten risks in plain
-   words, and the two one-page sheets.
+   the last complete week with week-over-week change, one page per week, a
+   12-week trend line per risk and a heatmap, the ten risks in plain words with the
+   latest matching news, an RSS feed (`feed.xml`) and the two one-page sheets.
+   Every headline shows the keywords that sorted it, and headlines can be filtered
+   by risk, searched, and narrowed to **priority** items: a CVE ID (linked to the
+   NVD) or words such as "zero-day", "actively exploited" or "critical".
 6. **Schedule** (`.github/workflows/weekly.yml`): GitHub Actions runs the tests
    and the update every Monday and commits the new pages.
 
@@ -51,7 +55,7 @@ cover. Improving a rule means editing one line in `config/owasp.toml`.
 
 ```bash
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
-.venv/bin/python -m pytest          # 32 tests, no internet needed
+.venv/bin/python -m pytest          # 36 tests, no internet needed
 .venv/bin/python -m radar update    # fetch feeds and rebuild docs/
 .venv/bin/python -m radar build     # rebuild docs/ from stored data only
 ```
