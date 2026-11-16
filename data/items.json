@@ -1,5 +1,324 @@
 [
  {
+  "title": "You can now self-host Kitesurf, Cloudflare’s open-source browser for AI agents",
+  "link": "https://www.helpnetsecurity.com/2026/11/16/cloudflare-kitesurf-open-source/",
+  "source": "Help Net Security",
+  "published": "2026-11-16",
+  "category": "LLM06",
+  "matched": [
+   "agents"
+  ]
+ },
+ {
+  "title": "Google warns that fully-automated AI attacks are coming soon",
+  "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+  "source": "BleepingComputer",
+  "published": "2026-11-16",
+  "category": "LLM06",
+  "matched": [
+   "agentic"
+  ]
+ },
+ {
+  "title": "Criminal marketplace sells infostealer logs with AI-written profiles of their owners",
+  "link": "https://www.helpnetsecurity.com/2026/11/16/ai-powered-infostealer-marketplace-victim-profiles/",
+  "source": "Help Net Security",
+  "published": "2026-11-16",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+  "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+  "source": "BleepingComputer",
+  "published": "2026-11-16",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+  "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+  "source": "The Hacker News",
+  "published": "2026-11-16",
+  "category": "LLM07",
+  "matched": [
+   "api keys"
+  ]
+ },
+ {
+  "title": "AI uncovers flaws in discontinued devices with no vendor left to patch them",
+  "link": "https://www.helpnetsecurity.com/2026/11/16/forescout-ai-models-vulnerability-research/",
+  "source": "Help Net Security",
+  "published": "2026-11-16",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant",
+  "link": "https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/",
+  "source": "Help Net Security",
+  "published": "2026-11-15",
+  "category": "LLM07",
+  "matched": [
+   "credentials"
+  ]
+ },
+ {
+  "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+  "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+  "source": "BleepingComputer",
+  "published": "2026-11-15",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+  "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+  "source": "The Hacker News",
+  "published": "2026-11-15",
+  "category": "LLM03",
+  "matched": [
+   "extension"
+  ]
+ },
+ {
+  "title": "Cursor confirms security breach led to malicious Claude Code extension",
+  "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+  "source": "BleepingComputer",
+  "published": "2026-11-14",
+  "category": "LLM03",
+  "matched": [
+   "extension"
+  ]
+ },
+ {
+  "title": "Über MCP-Server: Erneuter Hackerangriff auf Hoster Mittwald",
+  "link": "https://www.golem.de/news/ueber-mcp-server-erneuter-hackerangriff-auf-hoster-mittwald-2611-215173.html",
+  "source": "golem.de Security",
+  "published": "2026-11-13",
+  "category": "LLM06",
+  "matched": [
+   "mcp"
+  ]
+ },
+ {
+  "title": "Über 35.000 Webanwendungen: Grok-Apps leaken Kundendaten und Passwörter",
+  "link": "https://www.golem.de/news/ueber-35-000-webanwendungen-grok-apps-leaken-kundendaten-und-passwoerter-2611-215185.html",
+  "source": "golem.de Security",
+  "published": "2026-11-13",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+  "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+  "source": "The Hacker News",
+  "published": "2026-11-13",
+  "category": "LLM06",
+  "matched": [
+   "agent"
+  ]
+ },
+ {
+  "title": "Partnerangebot: UNIVADO – Webinar „Wer kontrolliert Ihre KI?“ & E-Learning „KI-Kompetenz Training nach Art. 4 der KI-VO“",
+  "link": "https://www.bsi.bund.de/Webs/ACS/DE/Home/_/infos/20261202_UNIVADO_KI_Kompetenz.html",
+  "source": "BSI Allianz für Cyber-Sicherheit",
+  "published": "2026-11-13",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "How one AI agent exposed five critical enterprise security gaps",
+  "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+  "source": "BleepingComputer",
+  "published": "2026-11-13",
+  "category": "LLM06",
+  "matched": [
+   "agent"
+  ]
+ },
+ {
+  "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+  "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+  "source": "The Hacker News",
+  "published": "2026-11-13",
+  "category": "LLM09",
+  "matched": [
+   "deepfake"
+  ]
+ },
+ {
+  "title": "Cybersicherheit: KI legt Windpark in unter zwei Stunden lahm",
+  "link": "https://www.golem.de/news/cybersicherheit-ki-legt-windpark-in-unter-zwei-stunden-lahm-2611-215181.html",
+  "source": "golem.de Security",
+  "published": "2026-11-13",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+  "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+  "source": "The Hacker News",
+  "published": "2026-11-12",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "permissions"
+  ]
+ },
+ {
+  "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-11-12",
+  "category": "LLM03",
+  "matched": [
+   "supply chain"
+  ]
+ },
+ {
+  "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+  "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+  "source": "The Hacker News",
+  "published": "2026-11-12",
+  "category": "LLM09",
+  "matched": [
+   "fake"
+  ]
+ },
+ {
+  "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+  "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+  "source": "The Hacker News",
+  "published": "2026-11-12",
+  "category": "LLM09",
+  "matched": [
+   "fake"
+  ]
+ },
+ {
+  "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+  "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+  "source": "The Hacker News",
+  "published": "2026-11-11",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
+  "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+  "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+  "source": "The Hacker News",
+  "published": "2026-11-11",
+  "category": "LLM07",
+  "matched": [
+   "api keys",
+   "secrets"
+  ]
+ },
+ {
+  "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+  "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+  "source": "The Hacker News",
+  "published": "2026-11-11",
+  "category": "LLM02",
+  "matched": [
+   "confidential"
+  ]
+ },
+ {
+  "title": "Nach Sicherheitsvorfall mit OpenAI: Australien prüft Straftatbestand gegen unsichere KI",
+  "link": "https://www.golem.de/news/nach-sicherheitsvorfall-mit-openai-australien-prueft-straftatbestand-gegen-unsichere-ki-2611-215079.html",
+  "source": "golem.de Security",
+  "published": "2026-11-11",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+  "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+  "source": "The Hacker News",
+  "published": "2026-11-11",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents",
+   "permissions"
+  ]
+ },
+ {
+  "title": "Lessons from 59 Linux Kernel Bug Reports",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-11-11",
+  "category": "LLM06",
+  "matched": [
+   "privilege"
+  ]
+ },
+ {
+  "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+  "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+  "source": "The Hacker News",
+  "published": "2026-11-11",
+  "category": "LLM07",
+  "matched": [
+   "secrets",
+   "credentials"
+  ]
+ },
+ {
+  "title": "Whatsapp, Signal und Co.: Deepmind-KI liefert Beweis für Signal-Verschlüsselung",
+  "link": "https://www.golem.de/news/whatsapp-signal-und-co-deepmind-ki-liefert-beweis-fuer-signal-verschluesselung-2611-215053.html",
+  "source": "golem.de Security",
+  "published": "2026-11-10",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+  "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+  "source": "The Hacker News",
+  "published": "2026-11-10",
+  "category": "LLM05",
+  "matched": [
+   "remote code execution",
+   "rce",
+   "code execution"
+  ]
+ },
+ {
+  "title": "Partnerangebot: LINK2AI – „Sicherheits- und Qualitätscheck für KI-Chatbots und -Agenten: Red Teaming und Policy-Testing für LLM-basierte Anwendungen“",
+  "link": "https://www.bsi.bund.de/Webs/ACS/DE/Home/_/infos/20270131_LINK2AI_KI_Chatbots_Agenten.html",
+  "source": "BSI Allianz für Cyber-Sicherheit",
+  "published": "2026-11-10",
+  "category": "OTHER",
+  "matched": []
+ },
+ {
+  "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+  "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+  "source": "The Hacker News",
+  "published": "2026-11-10",
+  "category": "LLM07",
+  "matched": [
+   "secrets"
+  ]
+ },
+ {
+  "title": "Detecting sleeper agents hiding in AI model neurons",
+  "link": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
+  "source": "Microsoft Security Blog",
+  "published": "2026-11-10",
+  "category": "LLM06",
+  "matched": [
+   "agent",
+   "agents"
+  ]
+ },
+ {
   "title": "Wirken: Open-source AI agent gateway",
   "link": "https://www.helpnetsecurity.com/2026/11/09/wirken-open-source-ai-agent-gateway/",
   "source": "Help Net Security",
